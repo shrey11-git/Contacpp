@@ -37,5 +37,5 @@ Built this to practice C++ fundamentals like file structure, pointers, and class
 Shreyash Tiwari
 [ GitHub](https://github.com/shrey11-git) • [linkedin](http://www.linkedin.com/in/shreyashtiwari-csbs)
 
-TL;DR Summary
+TL;DR Summary: 
 A contact manager built with C++, ImGui, and SQLite to explore modern C++ programming, GUI building, and DB integration.
