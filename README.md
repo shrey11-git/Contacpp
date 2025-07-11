@@ -30,7 +30,6 @@ g++ gui_main.cpp db.cpp -lglfw -lGL -ldl -lX11 -lpthread -lXrandr -lXi -lXxf86vm
 # ※ Contacpp - GUI Preview
 <img width="683" height="520" alt="contacpp_ss" src="https://github.com/user-attachments/assets/24f21784-90a3-4093-8ff9-d5786048cb3a" />
 
-
 # ※ What I Learned
 - Built this to practice C++ fundamentals like file structure, pointers, and class-free modularity
 - Also got hands-on with SQLite integration.
