@@ -12,10 +12,10 @@ Managing personal contacts quickly without relying on heavy apps or online servi
 - GUI built with ImGui + GLFW + OpenGL
 
 # ※ Tech Stack
-Language: C++17
-Database: SQLite
-GUI: ImGui, GLFW, OpenGL
-Tools: CMake, Visual Studio 2022
+- Language: C++17
+- Database: SQLite
+- GUI: ImGui, GLFW, OpenGL
+- Tools: CMake, Visual Studio 2022
 
 # ※ How to Run
 - Clone the repo
