@@ -28,7 +28,8 @@ g++ gui_main.cpp db.cpp -lglfw -lGL -ldl -lX11 -lpthread -lXrandr -lXi -lXxf86vm
 ./Contacpp
 
 # ※ Screenshot
-<img width="982" height="714" alt="Screenshot 2025-07-11 202353" src="https://github.com/user-attachments/assets/7341a6c8-952c-4ac7-baa4-b42dc392ee7d" />
+<img width="982" height="714" alt="Screenshot 2025-07-11 202353" src="https://github.com/user-attachments/assets/f4aee08d-4e0a-4d58-a3b6-b90ddfcebf0e" />
+
 
 # ※ What I Learned
 Built this to practice C++ fundamentals like file structure, pointers, and class-free modularity. Also got hands-on with SQLite integration and learned the ropes of setting up a lightweight GUI using ImGui with GLFW + OpenGL.
