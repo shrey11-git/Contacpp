@@ -18,13 +18,13 @@ GUI: ImGui, GLFW, OpenGL
 Tools: CMake, Visual Studio 2022
 
 ※ How to Run
-# Clone the repo
+- Clone the repo
 git clone https://github.com/shrey11-git/Contacpp.git
 cd Contacpp
-# Make sure you have g++, CMake, and dependencies (GLFW, ImGui, SQLite)
-# Then build and run
+- Make sure you have g++, CMake, and dependencies (GLFW, ImGui, SQLite)
+- Then build and run
 g++ gui_main.cpp db.cpp -lglfw -lGL -ldl -lX11 -lpthread -lXrandr -lXi -lXxf86vm -lXcursor -lXinerama -lsqlite3 -o Contacpp
-# Run the app
+- Run the app
 ./Contacpp
 
 ※ Screenshot
