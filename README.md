@@ -28,7 +28,7 @@ g++ gui_main.cpp db.cpp -lglfw -lGL -ldl -lX11 -lpthread -lXrandr -lXi -lXxf86vm
 ./Contacpp
 
 # ※ Screenshot
-<img width="982" height="714" alt="Screenshot 2025-07-11 202353" src="https://github.com/user-attachments/assets/f4aee08d-4e0a-4d58-a3b6-b90ddfcebf0e" />
+<img width="683" height="520" alt="contacpp_ss" src="https://github.com/user-attachments/assets/24f21784-90a3-4093-8ff9-d5786048cb3a" />
 
 
 # ※ What I Learned
