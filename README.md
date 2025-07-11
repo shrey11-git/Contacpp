@@ -1,4 +1,4 @@
-# Contacpp (Contac++)
+# Contacpp (Contact Manager)
 A C++-based contact manager app with GUI and SQLite integration—built to explore C++ development, databases, and GUI frameworks.
 
 # ※ What Problem Does It Solve?
