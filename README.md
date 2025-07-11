@@ -32,7 +32,9 @@ g++ gui_main.cpp db.cpp -lglfw -lGL -ldl -lX11 -lpthread -lXrandr -lXi -lXxf86vm
 
 
 # ※ What I Learned
-Built this to practice C++ fundamentals like file structure, pointers, and class-free modularity. Also got hands-on with SQLite integration and learned the ropes of setting up a lightweight GUI using ImGui with GLFW + OpenGL.
+- Built this to practice C++ fundamentals like file structure, pointers, and class-free modularity
+- Also got hands-on with SQLite integration.
+- learned the ropes of setting up a lightweight GUI using ImGui with GLFW + OpenGL.
 
 # ※ Author
 Shreyash Tiwari
