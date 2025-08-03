@@ -1,5 +1,5 @@
 # Contacpp (Contact Manager)
-A C++ based contact manager app with GUI and SQLite integration—built to explore C++ development, databases, and GUI frameworks.
+A C++ based contact manager app with GUI and SQLite integration-built to explore C++ development, databases, and GUI frameworks.
 
 # ※ What Problem Does It Solve?
 Managing personal contacts quickly without relying on heavy apps or online services. This simple tool is great for anyone learning C++ or looking to build small, functional desktop tools.
